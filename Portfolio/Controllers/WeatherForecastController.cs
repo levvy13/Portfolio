@@ -13,7 +13,7 @@ namespace Portfolio.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "zmianatest1", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "zmianatest1PullRequest", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
